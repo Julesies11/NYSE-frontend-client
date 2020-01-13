@@ -1,0 +1,12 @@
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.frmAddEntry.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.frmSaveToXML.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.frmList.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.frmMain.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.Cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.frmLoadFromXML.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\bin\Debug\DiaryBusinessLayer.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\bin\Debug\DiaryBusinessLayer.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\DiaryBusinessLayer.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\DiaryBusinessLayer.pdb

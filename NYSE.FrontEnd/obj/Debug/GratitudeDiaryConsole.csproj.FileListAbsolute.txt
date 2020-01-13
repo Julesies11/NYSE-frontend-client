@@ -1,0 +1,8 @@
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\GratitudeDiaryConsole\GratitudeDiaryConsole\bin\Debug\GratitudeDiaryConsole.exe.config
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\GratitudeDiaryConsole\GratitudeDiaryConsole\bin\Debug\GratitudeDiaryConsole.exe
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\GratitudeDiaryConsole\GratitudeDiaryConsole\bin\Debug\GratitudeDiaryConsole.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\GratitudeDiaryConsole\GratitudeDiaryConsole\obj\Debug\GratitudeDiaryConsole.csprojResolveAssemblyReference.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\GratitudeDiaryConsole\GratitudeDiaryConsole\obj\Debug\GratitudeDiaryConsole.exe
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\GratitudeDiaryConsole\GratitudeDiaryConsole\obj\Debug\GratitudeDiaryConsole.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\GratitudeDiaryConsole\GratitudeDiaryConsole\obj\Debug\GratitudeDiaryConsole.Main.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\GratitudeDiaryConsole\GratitudeDiaryConsole\obj\Debug\GratitudeDiaryConsole.csproj.GenerateResource.Cache

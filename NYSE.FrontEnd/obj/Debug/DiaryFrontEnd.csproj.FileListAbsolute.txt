@@ -1,0 +1,16 @@
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\bin\Debug\DiaryBusinessLayer.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\DiaryFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\DiaryFrontEnd.frmAddEntry.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\DiaryFrontEnd.frmLoadFromXML.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\DiaryFrontEnd.frmSaveToXML.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\DiaryFrontEnd.frmList.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\DiaryFrontEnd.frmMain.resources
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\DiaryFrontEnd.csproj.GenerateResource.Cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\repos\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE Client\Diary\bin\Debug\Diary.exe.config
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE Client\Diary\obj\Debug\Diary.exe
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE Client\Diary\obj\Debug\Diary.pdb
